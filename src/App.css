@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+*{
+  font-family: 'Lato', sans-serif;
+}
+.navbar-brand{
+  font-size: 25px !important;
+  color: rgb(63, 62, 109) !important;
+}
+
+.navbar {
+  background: rgb(23, 6, 71) !important;
+} 
+
+.bg-clr{
+  background: rgb(40, 5, 138);
+  width: 100%;
+  height: auto;
+
+}
+
+.img-fluid{
+  width: 80%;
+  height: 500px;
+  animation: shaik infinite 2s ease-in-out alternate-reverse;
+
+}
+
+.my-3{
+  font-size: 20px;
+  color:mintcream !important;
+}
+
+.md-btn{
+  background: transparent;
+  border: 1px solid rgb(142, 130, 253) !important;
+  color: #fff !important;
+  border-radius: 100px !important;
+  padding: 10px 20px 10px 20px !important;
+  margin-bottom: 10px;
+  
+}
+.md-btn2{
+  background: transparent;
+  border: 1px solid rgb(142, 130, 253) !important;
+  color: #fff !important;
+  border-radius: 100px !important;
+  padding: 10px 20px 10px 20px !important;
+
+  
+}
+
+.nav-item:hover{
+   border-bottom:  1px solid #fff;
+   width:20%;
+}
+
+.Menu {
+  color :#fff !important;
+  outline: none !important;
+}
+.md-btn2:hover{
+  background: rgb(17, 178, 241);
+  border: 1px solid transparent !important;
+
+  
+}
+.md-btn:hover{
+  background: rgb(17, 178, 241);
+  border: 1px solid transparent !important;
+
+  
+}
+
+.my-btn{
+  background:rgb(8, 166, 240) !important;
+  color:#fff !important;
+  border: 1px solid transparent !important;
+  border-radius:100px !important;
+  padding: 10px 25px 10px 25px !important;
+  outline: none;
+
+}
+
+.my-btn:hover{
+  background:transparent !important;
+  color:#fff !important;
+  border: 1px solid #fff !important;
+  border-radius:100px !important;
+  
+
+}
+
+@keyframes shaik {
+  0%{
+    transform: translateY(10px);
+  }
+  100%{
+    transform: translateY(-10px);
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .img-fluid{
+    width: 80% !important;
+    height: 500px;
+    animation: shaik infinite 2s ease-in-out alternate-reverse;
+  
+  }
+  .nav-item:hover{
+    border-inline-start-width: 1px solid #fff;
+    width: 50px !important;
+  }
+}
