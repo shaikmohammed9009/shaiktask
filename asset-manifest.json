@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/shaiktask/static/css/main.bbcbe630.chunk.css",
-    "main.js": "/shaiktask/static/js/main.eecbacb2.chunk.js",
-    "main.js.map": "/shaiktask/static/js/main.eecbacb2.chunk.js.map",
+    "main.css": "/shaiktask/static/css/main.861872d7.chunk.css",
+    "main.js": "/shaiktask/static/js/main.8a95c146.chunk.js",
+    "main.js.map": "/shaiktask/static/js/main.8a95c146.chunk.js.map",
     "runtime-main.js": "/shaiktask/static/js/runtime-main.2315ab16.js",
     "runtime-main.js.map": "/shaiktask/static/js/runtime-main.2315ab16.js.map",
     "static/css/2.07725c36.chunk.css": "/shaiktask/static/css/2.07725c36.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.f5c4c45c.chunk.js.map": "/shaiktask/static/js/2.f5c4c45c.chunk.js.map",
     "index.html": "/shaiktask/index.html",
     "static/css/2.07725c36.chunk.css.map": "/shaiktask/static/css/2.07725c36.chunk.css.map",
-    "static/css/main.bbcbe630.chunk.css.map": "/shaiktask/static/css/main.bbcbe630.chunk.css.map",
+    "static/css/main.861872d7.chunk.css.map": "/shaiktask/static/css/main.861872d7.chunk.css.map",
     "static/js/2.f5c4c45c.chunk.js.LICENSE.txt": "/shaiktask/static/js/2.f5c4c45c.chunk.js.LICENSE.txt",
     "static/media/shaik.8f5f7e46.jpg": "/shaiktask/static/media/shaik.8f5f7e46.jpg"
   },
@@ -18,7 +18,7 @@
     "static/js/runtime-main.2315ab16.js",
     "static/css/2.07725c36.chunk.css",
     "static/js/2.f5c4c45c.chunk.js",
-    "static/css/main.bbcbe630.chunk.css",
-    "static/js/main.eecbacb2.chunk.js"
+    "static/css/main.861872d7.chunk.css",
+    "static/js/main.8a95c146.chunk.js"
   ]
 }
